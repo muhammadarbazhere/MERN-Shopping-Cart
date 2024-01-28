@@ -1,6 +1,6 @@
 # MERN-Shopping-Cart
 
-first of all                    
+first of all clone the code then                   
 replace the MongoDB string in the .env file (backend)               
 then open new terminal                   
 
